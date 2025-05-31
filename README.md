@@ -36,11 +36,13 @@
 - [Включаем ID для каждого профиля](https://t.me/thismisterit/99) - Полезная фишка как для разработчиков так и для поддержки клиентов, возможность быстро узнать ID любого юзера.
 - [Делаем оплату звездами](https://t.me/thismisterit/88) - Статья с примерами кода, про реализацию оплаты внутри приложения и бота звездами.
 - [Памятка Telegram Mini Apps](https://github.com/riobits/Telegram-Web-API-Cheatsheet) - Полезная памятка по Mini Apps.
+- [Чиним дизайн Telegram UI](https://telegra.ph/Changes-in-Color-Variables-for-Telegram-Mini-Apps-11-20) - Статья о том, как фиксить визуальную часть Telegram UI.
 
 ## 🛠️ Инструменты
 - [Analytics](https://github.com/Telegram-Mini-Apps/analytics) - Аналитика Telegram Mini Apps
 - [Telegram Mini Apps](https://github.com/Telegram-Mini-Apps/telegram-apps)- Библиотека для работы с фунциями Mini Apps.
-
+- [AI Генерация Дизайна](https://stitch.withgoogle.com/) - Генерируем дизайна для Mini Apps с импортом в Figma.
+- 
 ## UI Kits
 - [Telegram UI](https://github.com/Telegram-Mini-Apps/TelegramUI) - Библиотека с готовыми UI компонентами в стиле Telegram
 - [Figma Telegram UI](https://www.figma.com/community/file/1348989725141777736/telegram-mini-apps-ui-kit) - Примеры компонентов и собранных макетов
