@@ -43,6 +43,7 @@
 - [Telegram Mini Apps](https://github.com/Telegram-Mini-Apps/telegram-apps)- Библиотека для работы с фунциями Mini Apps.
 - [AI Генерация Дизайна](https://stitch.withgoogle.com/) - Генерируем дизайна для Mini Apps с импортом в Figma.
 - [NGrok](https://ngrok.com/) - Запускаем свое приложение в интернете без необходимости размещения на сервере. В основном для тестов.
+- [Strapi](https://strapi.io/) - OpenSource решение для создания админок, подходит для TMA.
   
 ## UI Kits
 - [Telegram UI](https://github.com/Telegram-Mini-Apps/TelegramUI) - Библиотека с готовыми UI компонентами в стиле Telegram
